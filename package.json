@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tharuksika.github.io/talerouterdom",
+  "homepage": "https://tharuksika.github.io/-TaleRouter-Dom",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
